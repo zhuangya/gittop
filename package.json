@@ -1,6 +1,6 @@
 {
   "name": "gittop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get git top directory",
   "main": "index.js",
   "scripts": {
