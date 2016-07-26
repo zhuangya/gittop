@@ -1,0 +1,29 @@
+{
+  "name": "gittop",
+  "version": "0.0.1",
+  "description": "get git top directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/gittop.git"
+  },
+  "keywords": [
+    "git",
+    "directory"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/gittop/issues"
+  },
+  "homepage": "https://github.com/zhuangya/gittop#readme",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  },
+  "dependencies": {
+    "trim": "0.0.1"
+  }
+}
