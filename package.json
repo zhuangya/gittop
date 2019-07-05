@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zhuangya/gittop#readme",
   "devDependencies": {
-    "ava": "^0.15.2"
+    "ava": "^2.1.0"
   },
   "dependencies": {
     "trim": "0.0.1"
